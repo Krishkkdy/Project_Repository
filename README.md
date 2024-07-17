@@ -73,13 +73,13 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>28-29th May</h2>** : Learning Redux Fundamentals:
+**<h2>26-27th May</h2>** : Learning Redux Fundamentals:
 
 <li>Understood the core principles of Redux for state management in JavaScript applications.</li>
 <li>Learned about actions, reducers, and the Redux store.</li>
 <li>Explored Redux DevTools for debugging and monitoring state changes.</li>
 
-**<h2>30-1st June</h2>** : Practicing State Management with Redux:
+**<h2>28-29th June</h2>** : Practicing State Management with Redux:
 
 **->** **State management is a critical aspect of building scalable and maintainable applications, and Redux is a popular library that helps manage and centralize application state in JavaScript applications. Practicing state management with Redux involves understanding its core concepts and applying them to manage the application's state predictably and efficiently.**
 
@@ -87,7 +87,7 @@ Branch Management and Remote Tracking:
 <li><b>Reducers:</b>  Pure functions that take the current state and an action as arguments and return a new state. Reducers specify how the application's state changes in response to actions.</li> 
 <li><b>Store:</b>  A centralized place to store the application state. The store holds the state tree and provides methods to dispatch actions and subscribe to state changes.</li> 
 
-**<h2>2nd-3rd June</h2>** : Exploring Tailwind CSS:
+**<h2>30-1st June</h2>** : Exploring Tailwind CSS:
 
 **Tailwind CSS is a utility-first CSS framework that allows developers to rapidly build custom user interfaces by composing small, reusable utility classes directly in their HTML. This approach promotes consistency, efficiency, and maintainability in styling web applications.**
 
@@ -95,7 +95,11 @@ Branch Management and Remote Tracking:
 <li><b>Customization:</b> Tailwind is highly customizable. Developers can extend the default configuration to include custom colors, fonts, spacing, and other design tokens, making it possible to create a unique design system for each project.</li>
 <li><b>Efficiency:</b> By using utility classes directly in the HTML, Tailwind reduces the need for writing custom CSS. This approach helps to avoid bloated CSS files and improves development efficiency.</li>
 
- 
+ **<h2>2nd June</h2>** : Implementing Simple Frontend with Tailwind CSS:
+
+ <li><b>Created a basic frontend interface for Laugh Logic Labs using Tailwind CSS.</b></li>
+ <li><b>Designed responsive UI components (e.g., navigation bar, cards) using Tailwind CSS classes.</b></li>
+ <li><b>Demonstrated proficiency in applying Tailwind CSS for efficient and customizable styling.</b></li>
 
  
 
