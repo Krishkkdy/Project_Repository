@@ -6,3 +6,4 @@ Week 1: GitHub Fundamentals
 Daily Tasks:
 
 Day 1-2: Learned the basics of GitHub.
+Day 3-4: Created repositories and committed changes.
