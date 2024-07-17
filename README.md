@@ -82,3 +82,10 @@ Branch Management and Remote Tracking:
 **<h2>30-1st June</h2>** : Practicing State Management with Redux:
 
 **->** State management is a critical aspect of building scalable and maintainable applications, and Redux is a popular library that helps manage and centralize application state in JavaScript applications. Practicing state management with Redux involves understanding its core concepts and applying them to manage the application's state predictably and efficiently.
+
+<li><b>Actions:</b> Plain JavaScript objects that represent an intention to change the state. Each action must have a type property that indicates the type of action being performed.</li> 
+<li><b>Reducers:</b>  Pure functions that take the current state and an action as arguments and return a new state. Reducers specify how the application's state changes in response to actions.</li> 
+<li><b>Store:</b>  A centralized place to store the application state. The store holds the state tree and provides methods to dispatch actions and subscribe to state changes.</li> 
+
+
+
