@@ -45,4 +45,12 @@ Component Reusability: Components can be nested within each other and reused thr
 
 **<h1>📅 Week 2: React Hook Form and Zod</h1>**
 
+**<i>Daily Tasks:</i>**
 
+**<h2>20-21st May</h2>** : Introduced to React Hook Form
+
+React Hook Form is a lightweight library designed to simplify the process of managing form state and validation in React applications. It promotes efficient and performant form handling by leveraging React hooks, which minimize re-renders and streamline the process of handling form inputs and validation.
+
+**Lightweight and Performant:** React Hook Form is designed to be minimal in size and highly performant. It uses uncontrolled components, which means it leverages the native form behavior in the browser, reducing the need for excessive re-renders.
+
+**Ease of Integration:** It can be easily integrated into existing React projects. The library provides a set of hooks, such as useForm, useController, and useFieldArray, which make it straightforward to manage form state and handle validation logic.
