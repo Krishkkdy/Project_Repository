@@ -12,12 +12,36 @@ Welcome to the summary of my internship experience at Laugh Logic Labs. Over the
 
 **<i>Daily Tasks:</i>**
 
-Day 1-2: Learned the basics of GitHub.
+**13-14th May**: Learned the basics of GitHub.
 
 During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.
 
-Day 3-4: Created repositories and committed changes.
+**15-16th May**: Created repositories and committed changes.
 
 As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:
 
-Day 5: Practiced push and pull operations.
+**17th May**: Practiced push and pull operations.
+
+I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:
+
+Uploading Changes to GitHub:
+
+Handling Push Errors and Conflicts:
+
+Fetching and Integrating Changes:
+
+Branch Management and Remote Tracking:
+
+**18-19th May**: Basics of React
+
+React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
+
+**<h3>Component-Based Architecture</h3>**
+
+Components: React applications are built using reusable components. Components are like JavaScript functions that return JSX (JavaScript XML) to define the UI structure.
+
+Component Reusability: Components can be nested within each other and reused throughout the application, promoting modularity and maintainability.
+
+
+
+
