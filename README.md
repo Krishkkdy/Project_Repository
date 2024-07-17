@@ -54,3 +54,9 @@ React Hook Form is a lightweight library designed to simplify the process of man
 **Lightweight and Performant:** React Hook Form is designed to be minimal in size and highly performant. It uses uncontrolled components, which means it leverages the native form behavior in the browser, reducing the need for excessive re-renders.
 
 **Ease of Integration:** It can be easily integrated into existing React projects. The library provides a set of hooks, such as useForm, useController, and useFieldArray, which make it straightforward to manage form state and handle validation logic.
+
+**<h2>22-23rd May</h2>** : Basics of Zod for Data Validation:
+
+Studied Zod's TypeScript-first approach to schema declaration and data validation.
+Practiced defining schemas for different data types (e.g., strings, numbers) using Zod.
+Integrated Zod with React Hook Form to validate form inputs against defined schemas.
