@@ -8,19 +8,20 @@ Welcome to the summary of my internship experience at Laugh Logic Labs. Over the
 
 **<h2><i>Started the Internship journey From 13th May 2024.</i></h2>**
 
-**Week 1**: GitHub Fundamentals
+
+**<h1>Week 1</h1>** : GitHub Fundamentals
 
 **<i>Daily Tasks:</i>**
 
-**13-14th May**: Learned the basics of GitHub.
+**<h2>13-14th May</h2>** : Learned the basics of GitHub.
 
 During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.
 
-**15-16th May**: Created repositories and committed changes.
+**<h2>15-16th May</h2>** : Created repositories and committed changes.
 
 As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:
 
-**17th May**: Practiced push and pull operations.
+**<h2>17th May</h2>** : Practiced push and pull operations.
 
 I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:
 
@@ -32,7 +33,7 @@ Fetching and Integrating Changes:
 
 Branch Management and Remote Tracking:
 
-**18-19th May**: Basics of React
+**<h2>18-19th May</h2>**: Basics of React
 
 React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
 
