@@ -9,7 +9,7 @@
 **<h2><i>Started the Internship journey From 13th May 2024.</i></h2>**
 
 
-**<h1>📅Week 1 : GitHub Fundamentals </h1>**
+**<h1>📅 Week 1 : GitHub Fundamentals </h1>**
 
 **<i>Daily Tasks:</i>**
 
@@ -43,6 +43,6 @@ Components: React applications are built using reusable components. Components a
 
 Component Reusability: Components can be nested within each other and reused throughout the application, promoting modularity and maintainability.
 
-
+**<h1>📅 Week 2: React Hook Form and Zod</h1>**
 
 
