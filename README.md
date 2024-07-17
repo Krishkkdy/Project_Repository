@@ -4,7 +4,7 @@ This project involves a series of tasks and learning activities carried out over
 
 **<h2>Introduction</h2>**
 
-Welcome to the summary of my internship experience at Laugh Logic Labs. Over the course of six weeks, I had the opportunity to dive deep into various aspects of Frontend development, including form handling, state management, and responsive design. This document provides a detailed account of my daily tasks, weekly summaries, and the skills I acquired during this period. 
+**Welcome to the summary of my internship experience at Laugh Logic Labs. Over the course of six weeks, I had the opportunity to dive deep into various aspects of Frontend development, including form handling, state management, and responsive design. This document provides a detailed account of my daily tasks, weekly summaries, and the skills I acquired during this period. **
 
 **<h2><i>Started the Internship journey From 13th May 2024.</i></h2>**
 
