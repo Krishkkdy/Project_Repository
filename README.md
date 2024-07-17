@@ -68,3 +68,13 @@ Integrating React Hook Form with Zod allows developers to leverage Zod's powerfu
 <li><b>Type-Safe Validation: </b> Zod provides a TypeScript-first approach to schema declaration, ensuring that form data adheres to predefined types and structures. This reduces runtime errors and enhances code reliability. </li>
 <li><b>Declarative Schema Definitions: </b> With Zod, developers can define validation schemas declaratively, specifying the expected shape and constraints of the form data. This simplifies the validation process and makes it more readable and maintainable.</li>
 <li><b>Seamless Integration: </b> React Hook Form's resolver function allows seamless integration with Zod, enabling the form library to utilize Zod schemas for validation. This integration centralizes validation logic and keeps form components clean and focused on UI concerns.</li>
+
+**<h1>📅 Week 3: Redux and Tailwind CSS</h1>**
+
+**<i>Daily Tasks:</i>**
+
+**<h2>28-29th May</h2>** : Learning Redux Fundamentals:
+
+<li>Understood the core principles of Redux for state management in JavaScript applications.</li>
+<li>Learned about actions, reducers, and the Redux store.</li>
+<li>Explored Redux DevTools for debugging and monitoring state changes.</li>
