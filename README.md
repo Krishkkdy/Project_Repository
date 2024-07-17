@@ -4,3 +4,5 @@ This project involves a series of tasks and learning activities carried out over
 
 Week 1: GitHub Fundamentals
 Daily Tasks:
+
+Day 1-2: Learned the basics of GitHub.
