@@ -175,8 +175,9 @@ Branch Management and Remote Tracking:
 <li>Handle cross-browser compatibility issues.</li>
 <li>Ensure the application adheres to accessibility standards.</li>
 
+**<h1><i>Conclusion</i></h1>**
 
-
+<i>Throughout the internship, I have undertaken a comprehensive journey into modern web development, focusing on various essential technologies and practices.</i> 
 
 
 
