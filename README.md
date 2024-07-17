@@ -8,9 +8,8 @@
 
 **<h2><i>Started the Internship journey From 13th May 2024.</i></h2>**
 
-:📅:
 
-**<h1>Week 1 : GitHub Fundamentals </h1>**
+**<h1>📅Week 1 : GitHub Fundamentals </h1>**
 
 **<i>Daily Tasks:</i>**
 
