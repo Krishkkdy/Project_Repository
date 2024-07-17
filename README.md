@@ -60,3 +60,9 @@ React Hook Form is a lightweight library designed to simplify the process of man
 <li>Studied Zod's TypeScript-first approach to schema declaration and data validation.</li>
 <li>Practiced defining schemas for different data types (e.g., strings, numbers) using Zod.</li>
 <li>Integrated Zod with React Hook Form to validate form inputs against defined schemas.</li>
+
+**<h2>24-25th May</h2>** : Integration of React Hook Form with Zod
+
+Integrating React Hook Form with Zod allows developers to leverage Zod's powerful schema validation capabilities within React Hook Form's efficient form management framework. This combination enhances the reliability and maintainability of form validation in React applications by providing type-safe schemas and streamlined validation logic.
+
+<li> **Type-Safe Validation**: Zod provides a TypeScript-first approach to schema declaration, ensuring that form data adheres to predefined types and structures. This reduces runtime errors and enhances code reliability.</li>
