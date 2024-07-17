@@ -13,16 +13,16 @@
 
 **<i>Daily Tasks:</i>**
 
-**<h2>13-14th May</h2>** : Learned the basics of GitHub.
+**<h2>13-14th May</h2>** **: Learned the basics of GitHub.**
 
 **->** **During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.**
 
-**<h2>15-16th May</h2>** : Created repositories and committed changes.
+**<h2>15-16th May</h2>** **: Created repositories and committed changes.**
 
 **->** **As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:**
 
-**<h2>17th May</h2>** : Practiced push and pull operations.
-
+**<h2>17th May</h2>** **: Practiced push and pull operations.
+**
 **->** **I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:**
 
 Uploading Changes to GitHub:
@@ -33,7 +33,7 @@ Fetching and Integrating Changes:
 
 Branch Management and Remote Tracking:
 
-**<h2>18-19th May</h2>**: Basics of React
+**<h2>18-19th May</h2>****: Basics of React**
 
 **->** React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
 
@@ -47,7 +47,7 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>20-21st May</h2>** : Introduced to React Hook Form
+**<h2>20-21st May</h2>** **: Introduced to React Hook Form**
 
 **->** **React Hook Form is a lightweight library designed to simplify the process of managing form state and validation in React applications. It promotes efficient and performant form handling by leveraging React hooks, which minimize re-renders and streamline the process of handling form inputs and validation.**
 
@@ -55,13 +55,13 @@ Branch Management and Remote Tracking:
 
 **Ease of Integration:** It can be easily integrated into existing React projects. The library provides a set of hooks, such as useForm, useController, and useFieldArray, which make it straightforward to manage form state and handle validation logic.
 
-**<h2>22-23rd May</h2>** : Basics of Zod for Data Validation:
+**<h2>22-23rd May</h2>** **: Basics of Zod for Data Validation:**
 
 <li>Studied Zod's TypeScript-first approach to schema declaration and data validation.</li>
 <li>Practiced defining schemas for different data types (e.g., strings, numbers) using Zod.</li>
 <li>Integrated Zod with React Hook Form to validate form inputs against defined schemas.</li>
 
-**<h2>24-25th May</h2>** : Integration of React Hook Form with Zod
+**<h2>24-25th May</h2>** **: Integration of React Hook Form with Zod**
 
 **->** **Integrating React Hook Form with Zod allows developers to leverage Zod's powerful schema validation capabilities within React Hook Form's efficient form management framework. This combination enhances the reliability and maintainability of form validation in React applications by providing type-safe schemas and streamlined validation logic.**
 
@@ -73,13 +73,13 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>26-27th May</h2>** : Learning Redux Fundamentals:
+**<h2>26-27th May</h2>** **: Learning Redux Fundamentals:**
 
 <li>Understood the core principles of Redux for state management in JavaScript applications.</li>
 <li>Learned about actions, reducers, and the Redux store.</li>
 <li>Explored Redux DevTools for debugging and monitoring state changes.</li>
 
-**<h2>28-29th May</h2>** : Practicing State Management with Redux:
+**<h2>28-29th May</h2>** **: Practicing State Management with Redux:**
 
 **->** **State management is a critical aspect of building scalable and maintainable applications, and Redux is a popular library that helps manage and centralize application state in JavaScript applications. Practicing state management with Redux involves understanding its core concepts and applying them to manage the application's state predictably and efficiently.**
 
@@ -87,7 +87,7 @@ Branch Management and Remote Tracking:
 <li><b>Reducers:</b>  Pure functions that take the current state and an action as arguments and return a new state. Reducers specify how the application's state changes in response to actions.</li> 
 <li><b>Store:</b>  A centralized place to store the application state. The store holds the state tree and provides methods to dispatch actions and subscribe to state changes.</li> 
 
-**<h2>30-1st June</h2>** : Exploring Tailwind CSS:
+**<h2>30-1st June</h2>** **: Exploring Tailwind CSS:**
 
 **Tailwind CSS is a utility-first CSS framework that allows developers to rapidly build custom user interfaces by composing small, reusable utility classes directly in their HTML. This approach promotes consistency, efficiency, and maintainability in styling web applications.**
 
@@ -95,7 +95,7 @@ Branch Management and Remote Tracking:
 <li><b>Customization:</b> Tailwind is highly customizable. Developers can extend the default configuration to include custom colors, fonts, spacing, and other design tokens, making it possible to create a unique design system for each project.</li>
 <li><b>Efficiency:</b> By using utility classes directly in the HTML, Tailwind reduces the need for writing custom CSS. This approach helps to avoid bloated CSS files and improves development efficiency.</li>
 
- **<h2>2nd June</h2>** : Implementing Simple Frontend with Tailwind CSS:
+ **<h2>2nd June</h2>** **: Implementing Simple Frontend with Tailwind CSS:**
 
  <li><b>Created a basic frontend interface for Laugh Logic Labs using Tailwind CSS.</b></li>
  <li><b>Designed responsive UI components (e.g., navigation bar, cards) using Tailwind CSS classes.</b></li>
@@ -105,7 +105,7 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>3rd-4th June</h2>** : Learning React Router Fundamentals
+**<h2>3rd-4th June</h2>** **: Learning React Router Fundamentals**
 
 **React Router is a powerful library for handling routing in React applications. It allows developers to create dynamic and complex navigation structures, making it possible to build single-page applications (SPAs) with ease. Here are some fundamental concepts and practices when learning React Router:**
 
@@ -113,7 +113,7 @@ Branch Management and Remote Tracking:
 <li><b>Route:</b> The Route component defines a path and the component that should be rendered when the path is matched.</li>
 <li><b>Link:</b> The Link component is used to navigate between routes without reloading the page, providing a seamless navigation experience.</li>
  
- **<h2>6th-7th June</h2>** : Practicing Dynamic Routing:
+ **<h2>6th-7th June</h2>** **: Practicing Dynamic Routing:**
 
 **Dynamic routing in React Router refers to the ability to render different components based on the current URL, enabling more complex and responsive navigation in single-page applications (SPAs). This involves using parameters, nested routes, and programmatic navigation to create a flexible routing system.**
 
@@ -121,7 +121,7 @@ Branch Management and Remote Tracking:
 <li><b>Nested Routes:</b> Routes within routes, allowing for more complex and hierarchical navigation structures.</li>
 <li><b>Programmatic Navigation:</b> Navigating to a different route using JavaScript, typically in response to user actions or events.</li>
 
-**<h2>8th-9th June</h2>** : Creating Frontend with Background Video and Tailwind CSS
+**<h2>8th-9th June</h2>** **: Creating Frontend with Background Video and Tailwind CSS**
 
 <li><b>Developed a frontend interface incorporating background video using JavaScript and Tailwind CSS.</b></li>
 <li><b>Enhanced visual appeal and user experience with custom styling using Tailwind CSS utilities.</b></li>
@@ -131,13 +131,13 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>10-13th June</h2>** : Designing Responsive Website with Tailwind CSS:
+**<h2>10-13th June</h2>** **: Designing Responsive Website with Tailwind CSS:**
 
 <li><b>Designed multiple web pages and interfaces using Tailwind CSS utilities.</b></li>
 <li><b>Implemented responsive layouts and components using Tailwind CSS classes.</b></li>
 <li><b>Customized design elements (e.g., typography, colors) to achieve desired aesthetics.</b></li>
 
- **<h2>14th-16th June</h2>** : Creating and Deploying Websites:
+ **<h2>14th-16th June</h2>** **: Creating and Deploying Websites:**
 
 <li><b>Developed complete websites based on design mockups using Tailwind CSS.</b></li>
 <li><b>Implemented interactive elements and navigational components for seamless user experience.</b></li>
@@ -147,7 +147,7 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>17-23th June</h2>** : Continuing Project Development:
+**<h2>17-23th June</h2>** **: Continuing Project Development:**
 
 **Continuing project development involves building on existing work, refining features, and ensuring the project meets its objectives. This phase typically includes debugging, optimizing code, enhancing user interfaces, and adding new functionalities based on feedback or additional requirements.**
 
