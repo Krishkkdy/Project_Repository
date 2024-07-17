@@ -15,15 +15,15 @@
 
 **<h2>13-14th May</h2>** : Learned the basics of GitHub.
 
-During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.
+**->** During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.
 
 **<h2>15-16th May</h2>** : Created repositories and committed changes.
 
-As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:
+**->** As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:
 
 **<h2>17th May</h2>** : Practiced push and pull operations.
 
-I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:
+**->** I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:
 
 Uploading Changes to GitHub:
 
@@ -35,13 +35,13 @@ Branch Management and Remote Tracking:
 
 **<h2>18-19th May</h2>**: Basics of React
 
-React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
+**->** React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
 
 **<h3>Component-Based Architecture</h3>**
 
-Components: React applications are built using reusable components. Components are like JavaScript functions that return JSX (JavaScript XML) to define the UI structure.
+**Components:** React applications are built using reusable components. Components are like JavaScript functions that return JSX (JavaScript XML) to define the UI structure.
 
-Component Reusability: Components can be nested within each other and reused throughout the application, promoting modularity and maintainability.
+**Component Reusability:** Components can be nested within each other and reused throughout the application, promoting modularity and maintainability.
 
 **<h1>📅 Week 2: React Hook Form and Zod</h1>**
 
@@ -49,7 +49,7 @@ Component Reusability: Components can be nested within each other and reused thr
 
 **<h2>20-21st May</h2>** : Introduced to React Hook Form
 
-React Hook Form is a lightweight library designed to simplify the process of managing form state and validation in React applications. It promotes efficient and performant form handling by leveraging React hooks, which minimize re-renders and streamline the process of handling form inputs and validation.
+**->** React Hook Form is a lightweight library designed to simplify the process of managing form state and validation in React applications. It promotes efficient and performant form handling by leveraging React hooks, which minimize re-renders and streamline the process of handling form inputs and validation.
 
 **Lightweight and Performant:** React Hook Form is designed to be minimal in size and highly performant. It uses uncontrolled components, which means it leverages the native form behavior in the browser, reducing the need for excessive re-renders.
 
@@ -63,7 +63,7 @@ React Hook Form is a lightweight library designed to simplify the process of man
 
 **<h2>24-25th May</h2>** : Integration of React Hook Form with Zod
 
-Integrating React Hook Form with Zod allows developers to leverage Zod's powerful schema validation capabilities within React Hook Form's efficient form management framework. This combination enhances the reliability and maintainability of form validation in React applications by providing type-safe schemas and streamlined validation logic.
+**->** Integrating React Hook Form with Zod allows developers to leverage Zod's powerful schema validation capabilities within React Hook Form's efficient form management framework. This combination enhances the reliability and maintainability of form validation in React applications by providing type-safe schemas and streamlined validation logic.
 
 <li><b>Type-Safe Validation: </b> Zod provides a TypeScript-first approach to schema declaration, ensuring that form data adheres to predefined types and structures. This reduces runtime errors and enhances code reliability. </li>
 <li><b>Declarative Schema Definitions: </b> With Zod, developers can define validation schemas declaratively, specifying the expected shape and constraints of the form data. This simplifies the validation process and makes it more readable and maintainable.</li>
@@ -78,3 +78,7 @@ Integrating React Hook Form with Zod allows developers to leverage Zod's powerfu
 <li>Understood the core principles of Redux for state management in JavaScript applications.</li>
 <li>Learned about actions, reducers, and the Redux store.</li>
 <li>Explored Redux DevTools for debugging and monitoring state changes.</li>
+
+**<h2>30-1st June</h2>** : Practicing State Management with Redux:
+
+**->** State management is a critical aspect of building scalable and maintainable applications, and Redux is a popular library that helps manage and centralize application state in JavaScript applications. Practicing state management with Redux involves understanding its core concepts and applying them to manage the application's state predictably and efficiently.
