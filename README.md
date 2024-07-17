@@ -7,3 +7,4 @@ Daily Tasks:
 
 Day 1-2: Learned the basics of GitHub.
 Day 3-4: Created repositories and committed changes.
+Day 5: Practiced push and pull operations.
