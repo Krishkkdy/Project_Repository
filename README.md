@@ -13,16 +13,15 @@
 
 **<i>Daily Tasks:</i>**
 
-**<h2>13-14th May</h2>** **: Learned the basics of GitHub.**
+**<h2>13-14th May</h2> : Learned the basics of GitHub.**
 
 **->** **During the initial phase of my internship, I focused on understanding the fundamental concepts and operations of GitHub. GitHub is a web-based platform used for version control and collaborative software development. It leverages Git, a distributed version control system, to track changes in source code during software development.**
 
-**<h2>15-16th May</h2>** **: Created repositories and committed changes.**
+**<h2>15-16th May</h2>: Created repositories and committed changes.**
 
 **->** **As part of my internship, I gained hands-on experience with GitHub's core functionality, specifically creating repositories and committing changes. These activities are essential for effective version control and collaborative software development. Here are the key tasks I performed:**
 
-**<h2>17th May</h2>** **: Practiced push and pull operations.
-**
+**<h2>17th May</h2>: Practiced push and pull operations.**
 **->** **I gained proficiency in performing push and pull operations using Git and GitHub. These operations are crucial for synchronizing changes between local repositories and remote repositories on GitHub, facilitating collaborative development and version control. Here’s a summary of what I learned and practiced:**
 
 Uploading Changes to GitHub:
@@ -33,7 +32,7 @@ Fetching and Integrating Changes:
 
 Branch Management and Remote Tracking:
 
-**<h2>18-19th May</h2>****: Basics of React**
+**<h2>18-19th May</h2>: Basics of React**
 
 **->** React is a JavaScript library developed by Facebook for building user interfaces. It's widely used for creating single-page applications (SPAs) and handling view layer for web and mobile apps. Here are the key concepts and features.
 
@@ -47,7 +46,7 @@ Branch Management and Remote Tracking:
 
 **<i>Daily Tasks:</i>**
 
-**<h2>20-21st May</h2>** **: Introduced to React Hook Form**
+**<h2>20-21st May</h2>: Introduced to React Hook Form**
 
 **->** **React Hook Form is a lightweight library designed to simplify the process of managing form state and validation in React applications. It promotes efficient and performant form handling by leveraging React hooks, which minimize re-renders and streamline the process of handling form inputs and validation.**
 
@@ -55,7 +54,7 @@ Branch Management and Remote Tracking:
 
 **Ease of Integration:** It can be easily integrated into existing React projects. The library provides a set of hooks, such as useForm, useController, and useFieldArray, which make it straightforward to manage form state and handle validation logic.
 
-**<h2>22-23rd May</h2>** **: Basics of Zod for Data Validation:**
+**<h2>22-23rd May</h2>: Basics of Zod for Data Validation:**
 
 <li>Studied Zod's TypeScript-first approach to schema declaration and data validation.</li>
 <li>Practiced defining schemas for different data types (e.g., strings, numbers) using Zod.</li>
