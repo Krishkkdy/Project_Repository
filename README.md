@@ -101,5 +101,19 @@ Branch Management and Remote Tracking:
  <li><b>Designed responsive UI components (e.g., navigation bar, cards) using Tailwind CSS classes.</b></li>
  <li><b>Demonstrated proficiency in applying Tailwind CSS for efficient and customizable styling.</b></li>
 
+**<h1>📅 Week 4: React Router and Frontend Development</h1>**
+
+**<i>Daily Tasks:</i>**
+
+**<h2>3rd-4th June</h2>** : Learning React Router Fundamentals
+
+**React Router is a powerful library for handling routing in React applications. It allows developers to create dynamic and complex navigation structures, making it possible to build single-page applications (SPAs) with ease. Here are some fundamental concepts and practices when learning React Router:**
+
+<li><b>Router:</b> The Router component (BrowserRouter for web applications) wraps the entire application to enable routing functionality.</li>
+<li><b>Route:</b> The Route component defines a path and the component that should be rendered when the path is matched.</li>
+<li><b>Link:</b> The Link component is used to navigate between routes without reloading the page, providing a seamless navigation experience.</li>
+ 
  
 
+ 
+ 
