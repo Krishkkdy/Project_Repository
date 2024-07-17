@@ -8,9 +8,8 @@ Welcome to the summary of my internship experience at Laugh Logic Labs. Over the
 
 **<h2><i>Started the Internship journey From 13th May 2024.</i></h2>**
 
-Week 1: GitHub Fundamentals
-Daily Tasks:
-
+**Week 1**: GitHub Fundamentals
+**<i>Daily Tasks:</i>**
 Day 1-2: Learned the basics of GitHub.
 Day 3-4: Created repositories and committed changes.
 Day 5: Practiced push and pull operations.
